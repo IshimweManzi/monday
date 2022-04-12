@@ -1,0 +1,53 @@
+*
+form
+{
+    height: 550px;
+    width: 350px;
+    box-shadow: 0px 2px 8px orange;
+}
+
+.photo
+{
+    width: 180px;
+    height: 250px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.cont
+{
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.cont1
+{
+    font-size: 20px;
+    color: rgb(43, 39, 39);
+}
+
+.cont2
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cont3
+{
+    margin-top: 22px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: #fff;
+    font-family: Arial;
+    height: 37px;
+    padding-left: 130px;
+    padding-right: 140px;
+}
+
+
+.image
+{
+    height: 35px;
+}
