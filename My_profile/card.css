@@ -24,7 +24,7 @@ form
 .cont1
 {
     font-size: 20px;
-    color: rgb(43, 39, 39);
+    color: rgba(43, 39, 39, 0.466);
 }
 
 .cont2
@@ -46,8 +46,22 @@ form
     padding-right: 140px;
 }
 
-
+.cont3:hover
+{
+    background-color: rgba(0, 0, 0, 0.897);
+    border: none;
+    transition: .6s ease;
+}
 .image
 {
     height: 35px;
+    border-radius: 5px;
+    
+}
+
+.image:hover
+{
+    background-color: gray;
+    height: 37px;
+    transition: .6s ease;
 }
